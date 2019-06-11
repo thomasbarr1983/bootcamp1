@@ -1,3 +1,27 @@
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require popper
+//= require tether
+//= require bootstrap-sprockets
+//= require_tree .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
 //
